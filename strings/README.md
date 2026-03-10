@@ -1,3 +1,3 @@
 # Strings 
 
-Contains Java Solution for string-based algorithm problems.
+This folder contains Java implementations of string manipulation and pattern problems.
