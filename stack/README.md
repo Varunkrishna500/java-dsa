@@ -1,3 +1,3 @@
 # Stack
 
-Create stack folder for stack-based algorithm problems
+This folder contains stack-based algorithm problems.
