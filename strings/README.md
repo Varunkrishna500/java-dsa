@@ -1,3 +1,3 @@
-Strings
+# Strings 
 
-This folder contains Java solutions for String-based DSA problems.
+Contains Java Solution for string-based algorithm problems.
