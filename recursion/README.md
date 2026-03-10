@@ -1,3 +1,3 @@
 # Resursion
 
-Create recursion folder for recursive algorithm problems
+This folder contains problems solved using recursion.
