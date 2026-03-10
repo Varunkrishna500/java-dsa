@@ -1,3 +1,3 @@
 # Queue
 
-Create queue folder for queue data structure problems
+This folder contains queue and deque related problems.
