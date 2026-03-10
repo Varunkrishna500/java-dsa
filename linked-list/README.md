@@ -1,3 +1,3 @@
 # Linked List
 
-Create linkedlist folder for linked list data structure problems
+This folder contains problems related to singly and doubly linked lists
